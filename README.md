@@ -73,7 +73,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🙌 Acknowledgements
 
 Developed by [@aquilaishola](https://github.com/aquilaishola)  
-Hosted on [Devaquila Projects](https://projects.devaquila.xyz)
+Hosted on [Devaquila's Portfolio](https://devaquila.xyz)
 
 ---
 
